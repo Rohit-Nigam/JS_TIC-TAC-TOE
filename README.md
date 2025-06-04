@@ -44,12 +44,12 @@ tic-tac-toe/
    ```bash
    start index.html
 
-##✅ To-Do (Optional Enhancements)
-   Add single-player mode with basic AI
+## ✅ To-Do (Optional Enhancements)
+     Add single-player mode with basic AI
   
-   Add scoreboard and round tracking
+     Add scoreboard and round tracking
   
-   Add animations or sound effects
+     Add animations or sound effects
 
-##🤝 Contributing
-  Contributions are welcome! Feel free to fork this repo and submit a pull request.
+## 🤝 Contributing
+    Contributions are welcome! Feel free to fork this repo and submit a pull request.
